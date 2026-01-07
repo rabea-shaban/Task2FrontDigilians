@@ -489,7 +489,7 @@ footer {
       justify-content: space-between;
       align-items: center;
     }
-    li a {
+     a {
       color: #fff;
       display: block;
       margin: 5px;
