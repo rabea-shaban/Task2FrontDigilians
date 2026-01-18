@@ -56,11 +56,11 @@ Through this task, I enhanced my skills in:
 ## 🔗 Project Links
 
 - **GitHub Repository:**  
-  https://lnkd.in/dgTbECMc  
-
+[  https://lnkd.in/dgTbECMc  
+](https://github.com/rabea-shaban/Task2FrontDigilians)
 - **Live Demo:**  
-  https://lnkd.in/dixQU99u  
-
+[  https://lnkd.in/dixQU99u  
+](https://task2-front-digilians.vercel.app/)
 ---
 
 ## 🙏 Acknowledgment
